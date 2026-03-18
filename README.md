@@ -1,11 +1,11 @@
-# 🎯 Sistema de Gestão de TI
+#  Sistema de Gestão de TI
 
 Sistema completo de gestão de TI que integra Dashboard de métricas com Quadro Kanban para gestão ágil de tarefas e projetos.
 
 ![Badge](https://img.shields.io/badge/Status-Ativo-success)
 ![Badge](https://img.shields.io/badge/Licença-MIT-blue)
 
-## 📊 Funcionalidades
+##  Funcionalidades
 
 ### Dashboard de Métricas
 - ✅ Monitoramento de disponibilidade de serviços
@@ -25,21 +25,21 @@ Sistema completo de gestão de TI que integra Dashboard de métricas com Quadro 
 - ✅ Estatísticas em tempo real
 - ✅ Adicionar, editar e deletar tarefas
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **HTML5** - Estrutura
 - **CSS3** - Estilização e design responsivo
 - **JavaScript** - Interatividade e lógica
 - **Chart.js** - Visualização de dados em gráficos
 
-## 🚀 Como Usar
+##  Como Usar
 
 1. Clone este repositório ou baixe o arquivo HTML
 2. Abra o arquivo `sistema-gestao-ti.html` no seu navegador
 3. Navegue entre as abas **Dashboard** e **Kanban**
 4. No Kanban, adicione tarefas e arraste entre as colunas
 
-## 📸 Capturas de Tela
+##  Capturas de Tela
 
 ### Dashboard
 Dashboard com métricas de TI, gráficos e tabela de status de serviços.
@@ -47,7 +47,7 @@ Dashboard com métricas de TI, gráficos e tabela de status de serviços.
 ### Kanban
 Quadro Kanban com gestão visual de tarefas por status e prioridade.
 
-## 💡 Sobre o Projeto
+##  Sobre o Projeto
 
 Este projeto foi desenvolvido para demonstrar habilidades em:
 - Gestão de TI e análise de métricas
@@ -56,13 +56,13 @@ Este projeto foi desenvolvido para demonstrar habilidades em:
 - Visualização de dados
 - UX/UI Design
 
-## 👩‍💻 Autora
+##  Autora
 
 **Kaylane Kimberly**
 - Gestora de TI
 - LinkedIn: https://www.linkedin.com/feed/
 - GitHub: https://github.com/Kaylanekymberly
-## 📝 Licença
+##  Licença
 
 Este projeto está sob a licença MIT.
 
@@ -114,7 +114,7 @@ Your site is live at https://seu-usuario.github.io/sistema-gestao-ti/
 https://seu-usuario.github.io/sistema-gestao-ti/sistema-gestao-ti.html
 ```
 
-✅ **SEU PROJETO ESTÁ ONLINE!** 🎉
+ **SEU PROJETO ESTÁ ONLINE!** 🎉
 
 ---
 
